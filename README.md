@@ -1,1 +1,1 @@
-# jenkins-github-docker-ci-cd
+# TP 30 : Pipeline CI/CD avec Jenkins, GitHub, Docker et ngrok
